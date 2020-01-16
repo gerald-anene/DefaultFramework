@@ -1,0 +1,44 @@
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Pages\bin\Debug\GERALD.Pages.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Pages\bin\Debug\GERALD.Pages.pdb
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Pages\bin\Debug\log4net.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Pages\bin\Debug\WebDriver.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Pages\bin\Debug\WebDriver.Support.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Pages\bin\Debug\log4net.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Pages\bin\Debug\WebDriver.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Pages\bin\Debug\WebDriver.Support.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Pages\obj\Debug\GERALD.Pages.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Pages\obj\Debug\GERALD.Pages.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\GERALD.Pages.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\GERALD.Pages.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\GERALD.Data.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\log4net.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\Ninject.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\nunit.framework.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\WebDriver.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\WebDriver.Support.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\GERALD.Data.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\log4net.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\Ninject.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\nunit.framework.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\WebDriver.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\bin\Debug\WebDriver.Support.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\obj\Debug\GERALD.Pages.csprojResolveAssemblyReference.cache
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\obj\Debug\GERALD.Pages.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Pages\obj\Debug\GERALD.Pages.pdb
+E:\AUTOMATION\GERALD.Pages\bin\Debug\GERALD.Pages.dll
+E:\AUTOMATION\GERALD.Pages\bin\Debug\GERALD.Pages.pdb
+E:\AUTOMATION\GERALD.Pages\bin\Debug\GERALD.Data.dll
+E:\AUTOMATION\GERALD.Pages\bin\Debug\log4net.dll
+E:\AUTOMATION\GERALD.Pages\bin\Debug\Ninject.dll
+E:\AUTOMATION\GERALD.Pages\bin\Debug\nunit.framework.dll
+E:\AUTOMATION\GERALD.Pages\bin\Debug\WebDriver.dll
+E:\AUTOMATION\GERALD.Pages\bin\Debug\WebDriver.Support.dll
+E:\AUTOMATION\GERALD.Pages\bin\Debug\GERALD.Data.pdb
+E:\AUTOMATION\GERALD.Pages\bin\Debug\log4net.xml
+E:\AUTOMATION\GERALD.Pages\bin\Debug\Ninject.xml
+E:\AUTOMATION\GERALD.Pages\bin\Debug\nunit.framework.xml
+E:\AUTOMATION\GERALD.Pages\bin\Debug\WebDriver.xml
+E:\AUTOMATION\GERALD.Pages\bin\Debug\WebDriver.Support.xml
+E:\AUTOMATION\GERALD.Pages\obj\Debug\GERALD.Pages.csprojResolveAssemblyReference.cache
+E:\AUTOMATION\GERALD.Pages\obj\Debug\GERALD.Pages.dll
+E:\AUTOMATION\GERALD.Pages\obj\Debug\GERALD.Pages.pdb

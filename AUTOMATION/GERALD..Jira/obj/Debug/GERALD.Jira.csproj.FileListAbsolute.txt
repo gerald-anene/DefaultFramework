@@ -1,0 +1,18 @@
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD..Jira\bin\Debug\GERALD._.Jira.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD..Jira\bin\Debug\GERALD._.Jira.pdb
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD..Jira\obj\Debug\GERALD._.Jira.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD..Jira\obj\Debug\GERALD._.Jira.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD..Jira\bin\Debug\GERALD._.Jira.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD..Jira\bin\Debug\GERALD._.Jira.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD..Jira\bin\Debug\nunit.framework.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD..Jira\bin\Debug\nunit.framework.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD..Jira\obj\Debug\GERALD.Jira.csprojResolveAssemblyReference.cache
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD..Jira\obj\Debug\GERALD._.Jira.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD..Jira\obj\Debug\GERALD._.Jira.pdb
+E:\AUTOMATION\GERALD..Jira\bin\Debug\GERALD._.Jira.dll
+E:\AUTOMATION\GERALD..Jira\bin\Debug\GERALD._.Jira.pdb
+E:\AUTOMATION\GERALD..Jira\bin\Debug\nunit.framework.dll
+E:\AUTOMATION\GERALD..Jira\bin\Debug\nunit.framework.xml
+E:\AUTOMATION\GERALD..Jira\obj\Debug\GERALD.Jira.csprojResolveAssemblyReference.cache
+E:\AUTOMATION\GERALD..Jira\obj\Debug\GERALD._.Jira.dll
+E:\AUTOMATION\GERALD..Jira\obj\Debug\GERALD._.Jira.pdb

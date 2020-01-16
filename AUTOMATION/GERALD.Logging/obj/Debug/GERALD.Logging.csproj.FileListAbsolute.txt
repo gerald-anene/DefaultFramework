@@ -1,0 +1,60 @@
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\GERALD.Logging.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\GERALD.Logging.pdb
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\GERALD.JiraClient.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\GurkBurk.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\log4net.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\NBehave.Gherkin.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\NBehave.Narrator.Framework.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\GERALD._.Jira.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\GERALD.JiraClient.pdb
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\log4net.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\GERALD._.Jira.pdb
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\obj\Debug\GERALD.Logging.csprojResolveAssemblyReference.cache
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\obj\Debug\GERALD.Logging.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Logging\obj\Debug\GERALD.Logging.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\GERALD.Logging.dll.config
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\GERALD.Logging.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\GERALD.Logging.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\GERALD.JiraClient.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\GurkBurk.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\log4net.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\NBehave.Gherkin.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\NBehave.Narrator.Framework.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\nunit.framework.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\GERALD._.Jira.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\GERALD.JiraClient.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\log4net.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\nunit.framework.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\GERALD._.Jira.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\obj\Debug\GERALD.Logging.csprojResolveAssemblyReference.cache
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\obj\Debug\GERALD.Logging.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Logging\obj\Debug\GERALD.Logging.pdb
+E:\AUTOMATION\GERALD.Logging\bin\Debug\GERALD.Logging.dll.config
+E:\AUTOMATION\GERALD.Logging\bin\Debug\GERALD.Logging.dll
+E:\AUTOMATION\GERALD.Logging\bin\Debug\GERALD.Logging.pdb
+E:\AUTOMATION\GERALD.Logging\bin\Debug\GERALD.JiraClient.dll
+E:\AUTOMATION\GERALD.Logging\bin\Debug\GurkBurk.dll
+E:\AUTOMATION\GERALD.Logging\bin\Debug\log4net.dll
+E:\AUTOMATION\GERALD.Logging\bin\Debug\NBehave.Gherkin.dll
+E:\AUTOMATION\GERALD.Logging\bin\Debug\NBehave.Narrator.Framework.dll
+E:\AUTOMATION\GERALD.Logging\bin\Debug\nunit.framework.dll
+E:\AUTOMATION\GERALD.Logging\bin\Debug\GERALD._.Jira.dll
+E:\AUTOMATION\GERALD.Logging\bin\Debug\System.Net.Http.Formatting.dll
+E:\AUTOMATION\GERALD.Logging\bin\Debug\Newtonsoft.Json.dll
+E:\AUTOMATION\GERALD.Logging\bin\Debug\GERALD.JiraClient.pdb
+E:\AUTOMATION\GERALD.Logging\bin\Debug\log4net.xml
+E:\AUTOMATION\GERALD.Logging\bin\Debug\nunit.framework.xml
+E:\AUTOMATION\GERALD.Logging\bin\Debug\GERALD._.Jira.pdb
+E:\AUTOMATION\GERALD.Logging\bin\Debug\System.Net.Http.Formatting.xml
+E:\AUTOMATION\GERALD.Logging\bin\Debug\Newtonsoft.Json.xml
+E:\AUTOMATION\GERALD.Logging\obj\Debug\GERALD.Logging.csprojResolveAssemblyReference.cache
+E:\AUTOMATION\GERALD.Logging\obj\Debug\GERALD.Logging.dll
+E:\AUTOMATION\GERALD.Logging\obj\Debug\GERALD.Logging.pdb

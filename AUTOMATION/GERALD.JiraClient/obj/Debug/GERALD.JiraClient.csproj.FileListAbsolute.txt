@@ -1,0 +1,40 @@
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\bin\Debug\GERALD.JiraClient.dll.config
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\bin\Debug\GERALD.JiraClient.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\bin\Debug\GERALD.JiraClient.pdb
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\bin\Debug\GERALD._.Jira.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\bin\Debug\GERALD._.Jira.pdb
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\obj\Debug\GERALD.JiraClient.csprojResolveAssemblyReference.cache
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\obj\Debug\GERALD.JiraClient.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.JiraClient\obj\Debug\GERALD.JiraClient.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\bin\Debug\GERALD.JiraClient.dll.config
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\bin\Debug\GERALD.JiraClient.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\bin\Debug\GERALD.JiraClient.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\bin\Debug\GERALD._.Jira.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\bin\Debug\nunit.framework.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\bin\Debug\GERALD._.Jira.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\bin\Debug\nunit.framework.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\obj\Debug\GERALD.JiraClient.csprojResolveAssemblyReference.cache
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\obj\Debug\GERALD.JiraClient.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.JiraClient\obj\Debug\GERALD.JiraClient.pdb
+E:\AUTOMATION\GERALD.JiraClient\bin\Debug\GERALD.JiraClient.dll.config
+E:\AUTOMATION\GERALD.JiraClient\bin\Debug\GERALD.JiraClient.dll
+E:\AUTOMATION\GERALD.JiraClient\bin\Debug\GERALD.JiraClient.pdb
+E:\AUTOMATION\GERALD.JiraClient\bin\Debug\GERALD._.Jira.dll
+E:\AUTOMATION\GERALD.JiraClient\bin\Debug\Newtonsoft.Json.dll
+E:\AUTOMATION\GERALD.JiraClient\bin\Debug\nunit.framework.dll
+E:\AUTOMATION\GERALD.JiraClient\bin\Debug\System.Net.Http.Formatting.dll
+E:\AUTOMATION\GERALD.JiraClient\bin\Debug\GERALD._.Jira.pdb
+E:\AUTOMATION\GERALD.JiraClient\bin\Debug\Newtonsoft.Json.xml
+E:\AUTOMATION\GERALD.JiraClient\bin\Debug\nunit.framework.xml
+E:\AUTOMATION\GERALD.JiraClient\bin\Debug\System.Net.Http.Formatting.xml
+E:\AUTOMATION\GERALD.JiraClient\obj\Debug\GERALD.JiraClient.csprojResolveAssemblyReference.cache
+E:\AUTOMATION\GERALD.JiraClient\obj\Debug\GERALD.JiraClient.dll
+E:\AUTOMATION\GERALD.JiraClient\obj\Debug\GERALD.JiraClient.pdb

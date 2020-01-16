@@ -1,0 +1,86 @@
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\GERALD.Config.dll.config
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\GERALD.Config.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\GERALD.Config.pdb
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\GERALD.JiraClient.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\GERALD.Pages.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\log4net.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\Ninject.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\Ninject.Extensions.Conventions.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\WebDriver.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\GERALD._.Jira.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\WebDriver.Support.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\GERALD.JiraClient.pdb
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\GERALD.Pages.pdb
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\log4net.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\Ninject.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\Ninject.Extensions.Conventions.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\WebDriver.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\GERALD._.Jira.pdb
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\bin\Debug\WebDriver.Support.xml
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\obj\Debug\GERALD.Config.csprojResolveAssemblyReference.cache
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\obj\Debug\GERALD.Config.dll
+C:\Users\KC\documents\visual studio 2012\Projects\GERALD\GERALD.Config\obj\Debug\GERALD.Config.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\GERALD.Config.dll.config
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\GERALD.Config.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\GERALD.Config.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\GERALD.Data.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\GERALD.JiraClient.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\GERALD.Pages.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\log4net.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\Ninject.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\Ninject.Extensions.Conventions.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\nunit.framework.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\WebDriver.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\GERALD._.Jira.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\WebDriver.Support.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\GERALD.Data.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\GERALD.JiraClient.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\GERALD.Pages.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\log4net.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\Ninject.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\Ninject.Extensions.Conventions.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\nunit.framework.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\WebDriver.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\GERALD._.Jira.pdb
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\bin\Debug\WebDriver.Support.xml
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\obj\Debug\GERALD.Config.csprojResolveAssemblyReference.cache
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\obj\Debug\GERALD.Config.dll
+C:\Users\KC\Desktop\Automation\Automated\lth-test-automation\src2\GERALD\GERALD.Config\obj\Debug\GERALD.Config.pdb
+E:\AUTOMATION\GERALD.Config\bin\Debug\GERALD.Config.dll.config
+E:\AUTOMATION\GERALD.Config\bin\Debug\GERALD.Config.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\GERALD.Config.pdb
+E:\AUTOMATION\GERALD.Config\bin\Debug\GERALD.Data.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\GERALD.JiraClient.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\GERALD.Pages.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\log4net.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\Ninject.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\Ninject.Extensions.Conventions.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\nunit.framework.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\WebDriver.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\GERALD._.Jira.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\System.Net.Http.Formatting.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\Newtonsoft.Json.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\WebDriver.Support.dll
+E:\AUTOMATION\GERALD.Config\bin\Debug\GERALD.Data.pdb
+E:\AUTOMATION\GERALD.Config\bin\Debug\GERALD.JiraClient.pdb
+E:\AUTOMATION\GERALD.Config\bin\Debug\GERALD.Pages.pdb
+E:\AUTOMATION\GERALD.Config\bin\Debug\log4net.xml
+E:\AUTOMATION\GERALD.Config\bin\Debug\Ninject.xml
+E:\AUTOMATION\GERALD.Config\bin\Debug\Ninject.Extensions.Conventions.xml
+E:\AUTOMATION\GERALD.Config\bin\Debug\nunit.framework.xml
+E:\AUTOMATION\GERALD.Config\bin\Debug\WebDriver.xml
+E:\AUTOMATION\GERALD.Config\bin\Debug\GERALD._.Jira.pdb
+E:\AUTOMATION\GERALD.Config\bin\Debug\System.Net.Http.Formatting.xml
+E:\AUTOMATION\GERALD.Config\bin\Debug\Newtonsoft.Json.xml
+E:\AUTOMATION\GERALD.Config\bin\Debug\WebDriver.Support.xml
+E:\AUTOMATION\GERALD.Config\obj\Debug\GERALD.Config.csprojResolveAssemblyReference.cache
+E:\AUTOMATION\GERALD.Config\obj\Debug\GERALD.Config.dll
+E:\AUTOMATION\GERALD.Config\obj\Debug\GERALD.Config.pdb
